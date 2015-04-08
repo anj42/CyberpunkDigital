@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">digital cyberpunk</string>
+    <string name="hello_world">Thank you for downloading my application.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
